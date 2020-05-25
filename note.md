@@ -318,7 +318,7 @@ spring.profiles.active=dev
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 spring.datasource.url=jdbc:mysql://localhost:3306/guli_edu_190105?characterEncoding=utf-8&useSSL=false
 spring.datasource.username=root
-spring.datasource.password=qpzm1125
+spring.datasource.password=
 # Hikari是Spring Boot 2.0之后默认整合的数据库连接池，比druid更快的数据库连接池
 # 数据源类型
 spring.datasource.type=com.zaxxer.hikari.HikariDataSource
